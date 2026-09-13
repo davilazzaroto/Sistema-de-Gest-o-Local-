@@ -8,8 +8,8 @@
     },
     {
         "id": 2,
-        "name": "Huawei Wi-Fi AX3",
-        "category": "Roteador",
+        "name": "teste",
+        "category": "testando",
         "price": 320.0,
         "stock": 45
     },
@@ -33,5 +33,12 @@
         "category": "RouterBoard",
         "price": 800.0,
         "stock": 5
+    },
+    {
+        "id": 6,
+        "name": "Processador",
+        "category": "",
+        "price": 500.0,
+        "stock": 50
     }
 ]

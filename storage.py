@@ -15,4 +15,4 @@ def load_json(file_path):
     if not os.path.exists(file_path):
         return None
     with open(file_path, "r", encoding = "UTF-8", errors = "ignore") as f:
-        return json.load(f)
+        return json.load(f)        
